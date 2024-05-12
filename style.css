@@ -1,0 +1,77 @@
+header {
+  background-color: #6c63ff;
+  color: #fff;
+  height: 60px;
+}
+
+header img {
+  margin-top: 20px;
+}
+
+header ul li {
+  list-style-type: none;
+  padding-top: 20px;
+}
+
+header ul li a {
+  color: #fff;
+}
+
+h4 {
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h6 {
+  font-weight: 400;
+}
+
+ul li img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#integrantes {
+  padding: 50px 0;
+}
+
+#patoilo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+ul {
+  list-style: none;
+}
+
+#historia {
+  padding: 50px 0;
+  background-color: #6c63ff;
+  color: #fff;
+}
+
+#caracteristica {
+  padding: 50px 0;
+}
+
+#icons img {
+  width: 60px;
+  height: 60px;
+  border-radius: 0%;
+}
+
+#quemusa {
+  padding: 50px 0;
+  background-color: #6c63ff;
+  color: #fff;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(51, 51, 61);
+  color: #fff;
+  padding: 30px 0;
+}
